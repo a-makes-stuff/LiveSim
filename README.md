@@ -22,34 +22,38 @@ This simulation consists of using the Azure sentinel SIEM to visualize simulated
 
 
 Setup Virtual Machine in Azure: <br/>
-<img src="1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="1.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
 Setup Analytics Worspace :  <br/>
-<img src="2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="2.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
 Setup Azure Defender: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="3.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
-Run powershell Script in the VM to ingest logs <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Disable Firewall in Virtual Machine<br/>
+<img src="4.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
-Create custom log in Azure log analytics workspace to bring in the custom log <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run powershell Script in the VM to Simulate Attack <br/>
+<img src="5.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
-Extract fields from raw data <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure Custom logs in Azure <br/>
+<img src="6.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
-Setup Map in Sentinel with data <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Custom Fields in Map <br/>
+<img src="7.png" height="80%" width="80%" alt="loading"/>
+<br />
+<br />
+Setup Map with Latitude and Longitude <br/>
+<img src="8.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
 Observe the simulated breach attempts on VM <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="9.png" height="80%" width="80%" alt="loading"/>
 <br />
 <br />
