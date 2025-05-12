@@ -19,7 +19,8 @@ This simulation consists of using the Azure sentinel SIEM to visualize simulated
 
 
 <p align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/7NgPZ7M" data-context="false" ><a href="//imgur.com/a/7NgPZ7M"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![VM](1.png)
+
 Setup Virtual Machine in Azure: <br/>
 <img src="https://i.ibb.co/TB6zgqZK/1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
