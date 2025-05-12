@@ -29,7 +29,7 @@ Setup Analytics Worspace :  <br/>
 <img src="2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Disable Firewall in the VM: <br/>
+Setup Azure Defender: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
