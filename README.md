@@ -19,14 +19,14 @@ This simulation consists of using the Azure sentinel SIEM to visualize simulated
 
 
 <p align="center">
-![VM](1.png)
+
 
 Setup Virtual Machine in Azure: <br/>
-<img src="https://i.ibb.co/TB6zgqZK/1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Setup Analytics Worspace :  <br/>
-<img src="https://ibb.co/6Rz6WJ2v" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Disable Firewall in the VM: <br/>
