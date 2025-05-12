@@ -13,7 +13,7 @@ This simulation consists of using the Azure sentinel SIEM to visualize simulated
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Azure Sentinel</b> (21H2)
+- <b>Azure Sentinel</b> 
 
 <h2>Simulation walk-through:</h2>
 
